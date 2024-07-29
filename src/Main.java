@@ -32,6 +32,12 @@ public class Main {
         System.out.println (frog);
         frog = frog +4;
         System.out.println (frog);
+        var firstBokser = 78.2;
+        var secondBokser = 82.7;
+        var y = firstBokser + secondBokser;
+        System.out.println (y);
+        var raznost = secondBokser - firstBokser;
+        System.out.println (raznost);
 
 
     }
